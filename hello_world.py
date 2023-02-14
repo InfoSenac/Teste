@@ -1,6 +1,6 @@
-print('Hello World')
-
 def exibir_ola():
-    return ('Hello World')
+    return 'Olá Mundo'
 
-exibir_ola()
+mensagem = exibir_ola()
+
+print(mensagem)
