@@ -8,3 +8,5 @@ num2 = int(input('Informe o segundo número: '))
 
 
 print(somar(num1, num2))
+
+#teste
